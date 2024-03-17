@@ -1,4 +1,6 @@
 # ARM-Assembly Draw-Julia-Set  
+這個函數主要是用來計算並決定 Frame 二維陣列裡每個元素的值，並以此來決定該元
+素投影至畫面 Frame 上的 Pixel 顏色。  
 ![image](https://github.com/Sadieee/ARM-Assembly---Draw-Julia-Set/assets/85558758/0e2fa7f0-d009-4905-accc-dde83317bff0=50x100)
 
 ## 1. ARM Assembly資料存取  
