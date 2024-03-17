@@ -1,4 +1,4 @@
-#ARM-Assembly Draw-Julia-Set  
+# ARM-Assembly Draw-Julia-Set  
 
 **1.ARM Assembly資料存取: 使用 NAME 與 ID 兩個組合語言函數，列印姓名、編號。**  
 **2.以 ARM 組合語言設計 drawJuliaSet 函數。**  
